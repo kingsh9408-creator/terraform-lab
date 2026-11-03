@@ -35,7 +35,7 @@ terraform {
 
 resource "random_pet" "server" {
 
-  length = 2
+  length = 3
 
 }
 
